@@ -7,16 +7,16 @@ reference : http://www.stat.wisc.edu/~loh/treeprogs/guide/wires11.pdf
 
 - example  
 <br>
-<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/dataset.JPG" />
+<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/dataset.png" />
 </br>
 
 - test
 <br>
-<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/resultset.JPG" />
+<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/resultset.png" />
 </br>
 
 <br>
-<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/result.JPG" />
+<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/result.png" />
 </br>
 
 - code  
