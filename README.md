@@ -7,7 +7,8 @@ reference : http://edoc.hu-berlin.de/master/timofeev-roman-2004-12-20/PDF/timofe
 
 - entropy, gini impurity and inforamtion gain  
 
-entropy impurity = -( Sum(Pi * log2(Pi)) ), i = class0,1,..,   Pi = cnt(node_class_i_data)/cnt(node_all_data)  
+i = class0,1,..,   Pi = cnt(node_class_i_data)/cnt(node_all_data)  
+entropy impurity = -( Sum(Pi * log2(Pi)) )  
   
 gini impurity = 1 - Sum(Pi * Pi)  
   
@@ -18,12 +19,12 @@ impurity(node) -
  
 maxizing IG.. 
 
-- example  
+- example : data set  
 <br>
 <img height="400" src="https://github.com/cuteboydot/DecisionTree/blob/master/img/dataset.png" />
 </br>
 
-- test
+- test result
 <br>
 <img height="500" src="https://github.com/cuteboydot/DecisionTree/blob/master/img/resultset.png" />
 </br>
