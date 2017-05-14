@@ -3,7 +3,7 @@ implementation of DecisionTree(CART)
 
 cuteboydot@gmail.com  
 
-reference : http://www.stat.wisc.edu/~loh/treeprogs/guide/wires11.pdf  
+reference : http://edoc.hu-berlin.de/master/timofeev-roman-2004-12-20/PDF/timofeev.pdf  
 
 - example  
 <br>
