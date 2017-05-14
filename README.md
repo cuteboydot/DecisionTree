@@ -7,12 +7,12 @@ reference : http://www.stat.wisc.edu/~loh/treeprogs/guide/wires11.pdf
 
 - example  
 <br>
-<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/dataset.png" />
+<img height="400" src="https://github.com/cuteboydot/DecisionTree/blob/master/img/dataset.png" />
 </br>
 
 - test
 <br>
-<img src="https://github.com/cuteboydot/DecisionTree/blob/master/img/resultset.png" />
+<img height="500" src="https://github.com/cuteboydot/DecisionTree/blob/master/img/resultset.png" />
 </br>
 
 <br>
