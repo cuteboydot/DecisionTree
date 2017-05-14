@@ -7,8 +7,12 @@ reference : http://edoc.hu-berlin.de/master/timofeev-roman-2004-12-20/PDF/timofe
 
 - entropy, gini impurity and inforamtion gain  
 entropy impurity = -( Sum(Pi * log2(Pi)) ), i = class0,1,..,   Pi = cnt(node_class_i_data)/cnt(node_all_data)  
+  
 gini impurity = 1 - Sum(Pi * Pi)  
-information gain(IG) = impurity(node) - (cnt(node_left_data)/cnt(node_all_data) * impurity(node_left) + cnt(node_right_data)/cnt(node_all_data) * impurity(node_right))
+  
+information gain(IG) = impurity(node) -   
+                       (cnt(node_left_data)/cnt(node_all_data) * impurity(node_left) +   
+                       cnt(node_right_data)/cnt(node_all_data) * impurity(node_right))
 
 - example  
 <br>
